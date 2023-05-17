@@ -11,7 +11,7 @@ Footer section with links to social media profiles and legal pages
 Responsive design that adapts to different screen sizes and devices
 
 # Getting Started
-To run the website locally, you can follow these steps:
+To run the website locally, you can follow these steps :
 
 Clone the repository to your local machine:
 Open the index.html file in your web browser
